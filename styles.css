@@ -65,3 +65,8 @@ footer {
    padding: 10px 0;
    background-color: #027864;
 }
+.footer-link {
+   color: #6490F6
+   /*it is easier to just do a hex than type in "light blue" or "blue"*/
+   /*this is to make the links blue, otherwise, some links are dark blue and some are blue, this is not visually appealing*/
+}
